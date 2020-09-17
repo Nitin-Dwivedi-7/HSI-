@@ -1,5 +1,5 @@
 # HSI-
-This Project Can identify each object present in ground.
+This Project Can identify each object present on ground.
  
  
 hyperspectral image classification
