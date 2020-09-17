@@ -10,3 +10,7 @@ here i have implementated 4 models for HSI(hyperspectral image classification) w
 SVM is good but svm is not good for big datasets like PAVIA 
 so for best performance i suggest use LSTM it is good for both small datasets like India_pinse as well as good for big datasets like PAVIA 
 
+![front 1](https://user-images.githubusercontent.com/61201056/93494254-73810780-f92a-11ea-9156-fce2bbeae545.png)
+
+
+![Inter 2](https://user-images.githubusercontent.com/61201056/93494284-7b40ac00-f92a-11ea-97f8-d5de9862c8bd.png)
