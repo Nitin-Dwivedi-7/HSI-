@@ -1,4 +1,7 @@
 # HSI-
+This Project Can identify each object present in ground.
+ 
+ 
 hyperspectral image classification
 these are the implementation of different models used for hyperspectral image classification 
 here i have implementated 4 models for HSI(hyperspectral image classification) which are 
